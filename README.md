@@ -2,7 +2,7 @@
 
 **Dernière mise à jour : 24 Janvier 2026**
 
-PharmaConnect ("nous", "notre" ou "nos") s'engage à protéger votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre application mobile.
+PharmaConnect nous s'engage à protéger votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre application mobile.
 
 ## 1. Informations que nous collectons
 
